@@ -17,11 +17,11 @@
           - Paste mục [B] vào README.md của repo đó, rồi pin repo lên profile.
 ===================================================== -->
 
-# 🌟 TÙNG LÂM AUTOMATIC — ONE FILE README PACK (READY)
+# 🌟 TÙNG LÂM AUTOMATIC — ONE FILE README PACK — READY
 
 ---
 
-# [A] 👤 PROFILE README (Repo trùng username)
+# [A] 👤 PROFILE README — Repo trùng username
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=T%C3%B9ng%20L%C3%A2m%20Automatic&fontAlign=50&fontAlignY=35&desc=Robotics%20%7C%20Embedded%20%7C%20Control%20%7C%20Computer%20Vision&descAlign=50&descAlignY=58&color=gradient" />
@@ -46,7 +46,7 @@
 
 ---
 
-## ⚡ TL;DR (nhìn phát hiểu ngay)
+## ⚡ TL;DR — nhìn phát hiểu ngay
 
 - 🤖 **Robotics**: mecanum base, robot arm, competition robots (Robocon / RoboBall / mini challenges)  
 - 🧠 **Control**: PID / Fuzzy-PID / motion control, encoder feedback, trajectory  
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧰 Tech Stack (đồ nghề chiến đấu)
+## 🧰 Tech Stack — đồ nghề chiến đấu
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode,qt,ros,opencv&perline=10" />
@@ -70,14 +70,14 @@
 
 ---
 
-## 🏗️ What I’m building (đang làm gì cho tương lai)
+## 🏗️ What I’m building — đang làm gì cho tương lai
 
-### 🛞 1) Mobile Robot (Mecanum)
+### 🛞 1) Mobile Robot — Mecanum
 - Kinematics (IK/FK), điều khiển vận tốc 4 bánh
 - Encoder feedback, clamp vận tốc, timeout an toàn
 - Hướng tới: **odometry + navigation (ROS2)**
 
-### 🦾 2) Robot Arm (Pick & Place)
+### 🦾 2) Robot Arm — Pick & Place
 - IK / safe sequence / limit switch
 - Điều khiển trượt/quay/Z, phối hợp base + arm
 
@@ -87,25 +87,25 @@
 
 ---
 
-## 🚀 Featured Projects (điểm nhấn)
+## 🚀 Featured Projects — điểm nhấn
 
 > Nếu repo nào bạn đổi tên, chỉ cần sửa link ở đây.
 
-### ⚡ TungLamvsAGV-F407 — Node STM32F4 (Encoder/Control/Config)
+### ⚡ TungLamvsAGV-F407 — Node STM32F4 — Encoder/Control/Config
 - ✅ Firmware STM32F407: đọc encoder, nhận lệnh, điều khiển, cấu hình lưu Flash
 - 🔗 Repo: https://github.com/Tunglam0605/TungLamvsAGV-F407
 
-### 🤖 TunglamvsRobot2025 — Robot System (Base + Arm + GUI)
+### 🤖 TunglamvsRobot2025 — Robot System — Base + Arm + GUI
 - ✅ Hệ thống robot: base mecanum + arm + GUI điều khiển + workflow test/thi đấu
 - 🔗 Repo: https://github.com/Tunglam0605/TunglamvsRobot2025
 
-### 🧭 TungLamvsRos2 — ROS2 Workspace (Nav/Control/Integration)
+### 🧭 TungLamvsRos2 — ROS2 Workspace — Nav/Control/Integration
 - ✅ ROS2 workspace: navigation, controller tuning, integration robot
 - 🔗 Repo: https://github.com/Tunglam0605/TungLamvsRos2
 
 ---
 
-## 🎬 Demo (thêm GIF là “ăn tiền”)
+## 🎬 Demo — thêm GIF là “ăn tiền”
 
 <p align="center">
   <img src="assets/demo_mecanum.gif" width="49%" />
@@ -121,7 +121,7 @@
 
 ---
 
-## 📈 GitHub Stats (lung linh)
+## 📈 GitHub Stats — lung linh
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tunglam0605&show_icons=true&hide_border=true&rank_icon=github" />
@@ -138,7 +138,7 @@
 
 ---
 
-## 🐍 Contributions Snake (cực “ảo”)
+## 🐍 Contributions Snake — cực “ảo”
 
 > Cần GitHub Action để generate (1 lần setup là tự chạy).  
 > Hướng dẫn: https://github.com/Platane/snk  
@@ -171,7 +171,7 @@
 
 ---
 
-# [B] 📌 PORTFOLIO / LANDING README (Repo riêng để PIN)
+# [B] 📌 PORTFOLIO / LANDING README — Repo riêng để PIN
 
 > Tạo repo tên: `TungLam-Automatic` (hoặc `Portfolio`) → dán mục này vào README.md.
 
@@ -229,7 +229,7 @@
 
 ---
 
-# [C] 🧱 TEMPLATE README CHO MỖI DỰ ÁN (copy dùng cho mọi repo)
+# [C] 🧱 TEMPLATE README CHO MỖI DỰ ÁN — copy dùng cho mọi repo
 
 > Bonus: để repo nào của bạn cũng “xịn” và có chuẩn trình bày.
 
