@@ -1,17 +1,23 @@
 <!-- =====================================================
-     ✨ ONE-FILE PACK: Tùng Lâm Automatic — GitHub Profile + Portfolio ✨
+     ✨ ONE-FILE PACK (ĐÃ ĐIỀN SẴN): Tùng Lâm Automatic — GitHub Profile + Portfolio ✨
      Bạn chỉ cần 1 file này.
+
+     ✅ THÔNG TIN ĐÃ ĐIỀN:
+       - GitHub: https://github.com/Tunglam0605
+       - Name : Nguyễn Khắc Tùng Lâm (Tùng Lâm Automatic)
+       - Email: tunglam652004@gmail.com
+       - Phone: 0325270213
+
      Cách dùng nhanh:
        A) Profile README (hiện trên trang GitHub cá nhân):
-          - Tạo repo PUBLIC trùng y hệt username GitHub của bạn (ví dụ: TungLam0605)
+          - Tạo repo PUBLIC trùng y hệt username GitHub của bạn: `Tunglam0605`
           - Mở README.md của repo đó, paste mục [A] vào.
        B) Repo Portfolio (repo riêng để PIN):
-          - Tạo repo PUBLIC tên: TungLam-Automatic (hoặc Portfolio)
+          - Tạo repo PUBLIC tên: `TungLam-Automatic` (hoặc `Portfolio`)
           - Paste mục [B] vào README.md của repo đó, rồi pin repo lên profile.
-     LƯU Ý: Thay các chỗ YOUR_GITHUB_USERNAME / YOUR_NAME / YOUR_EMAIL / link repo thật.
 ===================================================== -->
 
-# 🌟 TÙNG LÂM AUTOMATIC — ONE FILE README PACK
+# 🌟 TÙNG LÂM AUTOMATIC — ONE FILE README PACK (READY)
 
 ---
 
@@ -22,8 +28,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_NAME-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Tunglam0605">
+    <img src="https://img.shields.io/badge/GitHub-T%C3%B9ng%20L%C3%A2m%20Automatic-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Robotics-Mecanum%20%7C%20Robot%20Arm-0B84F3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embedded-STM32%20%7C%20ESP32%20%7C%20DMA-10B981?style=for-the-badge" />
@@ -31,7 +37,7 @@
 </p>
 
 <p align="center">
-  <b>Xin chào 👋</b> Mình là <b>YOUR_NAME</b> — “Tùng Lâm Automatic”.  
+  <b>Xin chào 👋</b> Mình là <b>Nguyễn Khắc Tùng Lâm</b> — “<b>Tùng Lâm Automatic</b>”.  
   <br/>
   Mình build robot theo kiểu: <b>chạy mượt</b> • <b>đi đúng</b> • <b>debug nhanh</b> • <b>không hên xui</b>.  
   <br/>
@@ -42,11 +48,11 @@
 
 ## ⚡ TL;DR (nhìn phát hiểu ngay)
 
-- 🤖 **Robotics**: mecanum base, robot arm, competition robots  
+- 🤖 **Robotics**: mecanum base, robot arm, competition robots (Robocon / RoboBall / mini challenges)  
 - 🧠 **Control**: PID / Fuzzy-PID / motion control, encoder feedback, trajectory  
 - 🧩 **Embedded**: STM32F1/F4, ESP32 — UART/SPI/I2C/USB-CDC/DMA/Timers  
 - 👁️ **Vision**: OpenCV, YOLOv8, ROI calibration, pixel→mm mapping  
-- 🧰 **Tools**: ROS2, Python GUI (PySide6), Git workflow, CubeMX/Keil/VSCode  
+- 🧰 **Tools**: ROS2, Python GUI (PySide6/PyQtGraph), Git workflow, CubeMX/Keil/VSCode  
 
 ---
 
@@ -83,19 +89,19 @@
 
 ## 🚀 Featured Projects (điểm nhấn)
 
-> Thay link repo thật của bạn bên dưới nhé.
+> Nếu repo nào bạn đổi tên, chỉ cần sửa link ở đây.
 
-### ⚡ Node_F4 — Encoder x4 • Mecanum IK • Flash Config • UART DMA
-- ✅ STM32F407 đọc encoder, nhận lệnh `V vx vy wz`, IK mecanum, save/load Flash (CRC32)
-- 🔗 Repo: https://github.com/YOUR_GITHUB_USERNAME/Node_F4
+### ⚡ TungLamvsAGV-F407 — Node STM32F4 (Encoder/Control/Config)
+- ✅ Firmware STM32F407: đọc encoder, nhận lệnh, điều khiển, cấu hình lưu Flash
+- 🔗 Repo: https://github.com/Tunglam0605/TungLamvsAGV-F407
 
-### 🧠 Robot_ArmBase — Integrated System GUI (PySide6)
-- ✅ GUI điều khiển base + arm, waypoint/trajectory, PID/Fuzzy, serial monitor
-- 🔗 Repo: https://github.com/YOUR_GITHUB_USERNAME/Robot_ArmBase
+### 🤖 TunglamvsRobot2025 — Robot System (Base + Arm + GUI)
+- ✅ Hệ thống robot: base mecanum + arm + GUI điều khiển + workflow test/thi đấu
+- 🔗 Repo: https://github.com/Tunglam0605/TunglamvsRobot2025
 
-### 👁️ Vision_YOLO — Auto Pick Module
-- ✅ ROI + mapping pixel→mm + detect object phục vụ pick&place
-- 🔗 Repo: https://github.com/YOUR_GITHUB_USERNAME/Vision_YOLO
+### 🧭 TungLamvsRos2 — ROS2 Workspace (Nav/Control/Integration)
+- ✅ ROS2 workspace: navigation, controller tuning, integration robot
+- 🔗 Repo: https://github.com/Tunglam0605/TungLamvsRos2
 
 ---
 
@@ -110,35 +116,36 @@
   <img src="assets/demo_vision.gif" width="70%" />
 </p>
 
-> Tip: quay video robot chạy → convert sang GIF → bỏ vào thư mục `assets/`.
+> Tip: quay video robot chạy → convert GIF → bỏ vào thư mục `assets/` trong repo profile.  
+> Nếu chưa có GIF thì tạm thay bằng ảnh `assets/cover.png` cũng đẹp.
 
 ---
 
 ## 📈 GitHub Stats (lung linh)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tunglam0605&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunglam0605&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Tunglam0605&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tunglam0605&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🐍 Contributions Snake (cực “ảo”)
 
-> Cần GitHub Action để generate.  
+> Cần GitHub Action để generate (1 lần setup là tự chạy).  
 > Hướng dẫn: https://github.com/Platane/snk  
 > Sau khi chạy, chèn ảnh như sau:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Tunglam0605/Tunglam0605/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -147,15 +154,16 @@
 
 - 🥇 RoboBall Challenge — Giải Nhất  
 - 🥈 Robot Gắp Vật — Giải Nhì  
-- 🧠 Robocon / Robot Golf / Robot Pickleball — nhiều dự án & giải pháp sáng tạo  
+- 🤖 Robocon / Robot Golf / Robot Pickleball — nhiều dự án & giải pháp sáng tạo  
 - 👨‍🏫 Mentor/Support: hỗ trợ đội/CLB nghiên cứu & thi đấu  
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: YOUR_EMAIL
-- 🌐 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 📧 Email: tunglam652004@gmail.com
+- 📱 Phone: 0325270213
+- 🌐 GitHub: https://github.com/Tunglam0605
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient" />
@@ -182,9 +190,9 @@
 
 ## 🚀 Highlights
 
-- ⚡ **Node_F4** — Encoder x4 + Mecanum IK + Flash Config + UART DMA  
-- 🦾 **Robot Arm + Base** — Integrated control system + GUI (PySide6)  
-- 👁️ **Vision** — OpenCV/YOLO for auto pick, ROI calibration, pixel→mm mapping  
+- ⚡ **TungLamvsAGV-F407** — STM32F4 Node (Encoder/Control/Flash Config)  
+- 🦾 **TunglamvsRobot2025** — Robot System (Base + Arm + GUI)  
+- 🧭 **TungLamvsRos2** — ROS2 Workspace (Nav/Control/Integration)  
 
 ---
 
@@ -207,16 +215,17 @@
 
 ## 🔗 Projects
 
-- Node_F4: https://github.com/YOUR_GITHUB_USERNAME/Node_F4  
-- Robot_ArmBase: https://github.com/YOUR_GITHUB_USERNAME/Robot_ArmBase  
-- Vision_YOLO: https://github.com/YOUR_GITHUB_USERNAME/Vision_YOLO  
+- TungLamvsAGV-F407: https://github.com/Tunglam0605/TungLamvsAGV-F407  
+- TunglamvsRobot2025: https://github.com/Tunglam0605/TunglamvsRobot2025  
+- TungLamvsRos2: https://github.com/Tunglam0605/TungLamvsRos2  
 
 ---
 
 ## 📬 Contact
 
-- Email: YOUR_EMAIL
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- Email: tunglam652004@gmail.com
+- Phone: 0325270213
+- GitHub: https://github.com/Tunglam0605
 
 ---
 
@@ -260,4 +269,4 @@ Ví dụ lệnh / cách sử dụng.
 - [ ] cái 2
 
 ## 👤 Author
-**YOUR_NAME** — Tùng Lâm Automatic
+**Nguyễn Khắc Tùng Lâm** — Tùng Lâm Automatic
