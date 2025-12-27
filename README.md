@@ -75,9 +75,14 @@
 
 ## 🏆 Thành tích và hoạt động
 
-- 🏆 **Vô địch Robot Gắp Vật 2025** — do **CLB Robot & Công nghệ**, **Khoa Điện – Tự động hoá (UNETI)** tổ chức
-- 🥇 RoboBall Challenge — Giải Nhất
-- 🤖 Robocon, robot đánh golf, robot ném bóng — nhiều dự án và giải pháp sáng tạo
+- 🏆 **Robot Truy Tìm Kho Báu 2025** — Giải Nhất
+- 🏀 **Robocon 2025** — Test Run và Chung kết Sáng tạo Robot Việt Nam, Tham gia vòng 1/8.
+- 🥈 **UNETI Robotic 2025** — Giải Nhì
+- 🥇 **RoboBall Challenge 2024** — Giải Nhất  
+- 🥈 **Robot Gắp Vật 2024** — Giải Nhì  
+- 🌾 **Robocon 2024** — Test Run và Chung kết Sáng tạo Robot Việt Nam, Tham gia vòng 1/8.  
+- 🎯 **Robot Ném Bóng Pickleball 2024** — Giải Thiết kế ấn tượng  
+- ⛳ **Robot Đánh Golf 2023** — Giải pháp sáng tạo
 - 👨‍🏫 Mentor và hỗ trợ đội nhóm, CLB robot và công nghệ
 
 ---
