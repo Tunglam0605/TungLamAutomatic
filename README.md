@@ -1,7 +1,7 @@
-# ⚡ Tùng Lâm Automatic — Robotics • Embedded • Control • Vision
+# ⚡ Tùng Lâm Automation — Robotics • Embedded • Control • Vision
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=T%C3%B9ng%20L%C3%A2m%20Automatic&fontAlign=50&fontAlignY=35&desc=Build%20robots%20that%20run%20smooth%20and%20stay%20stable&descAlign=50&descAlignY=58&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=T%C3%B9ng%20L%C3%A2m%20Automation&fontAlign=50&fontAlignY=35&desc=Build%20robots%20that%20run%20smooth%20and%20stay%20stable&descAlign=50&descAlignY=58&color=gradient" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Xin chào 👋 Mình là <b>Nguyễn Khắc Tùng Lâm</b> — <b>Tùng Lâm Automatic</b><br/>
+  Xin chào 👋 Mình là <b>Nguyễn Khắc Tùng Lâm</b> — <b>Tùng Lâm Automation</b><br/>
   Mình làm robot theo style: <b>chạy mượt</b> • <b>đi đúng</b> • <b>debug nhanh</b> • <b>an toàn</b><br/>
   Câu cửa miệng: <i>Robot không sai — chỉ là mình chưa log đủ</i> 😄
 </p>
